@@ -15,14 +15,14 @@
 
 #### <u> Experience </u>
 <br>
-** 21 Inc ** &emsp; * Consultant * &emsp; New York &emsp; January 2016 — Present  
+**21 Inc** &emsp; *Consultant* &emsp; New York &emsp; January 2016 — Present
 
 Integration tested bitcoin payment channels with Filesystem in Userspace on Raspbian, an Ubuntu Jenkins node, and Mac  
 Added the ability to automatically determine or configure time zones  
 Integration tested marketplace publishing, searching, and buying with on-chain and off-chain transactions  
 Tech Stack: Python, pytest, Bash, Raspbian, Ubuntu, Mac, Jenkins, Git
 <br>  
-** REDI Global Technologies ** &emsp; * Principal Software Engineer in Test * &emsp; New York &emsp; 2015
+**REDI Global Technologies** &emsp; *Principal Software Engineer in Test* &emsp; New York &emsp; 2015
 
 Wrote BDD tests for spread trader algorithm  
 Automated deployments using Bash, Git, Chef, and Jenkins  
@@ -34,7 +34,7 @@ Tech Stack: Java, Selenium, Cucumber, Bash, Chef, Jenkins, PowerShell, CentOS, G
 Code sample: https://github.com/zskolnik/JSC
 
 <br>
-** ADP Innovation Lab ** &emsp; * Lead Application Developer / Lead QA Engineer * &emsp; New York &emsp; 2014 – 2015
+**ADP Innovation Lab** &emsp; *Lead Application Developer / Lead QA Engineer* &emsp; New York &emsp; 2014 – 2015
 
 Pivotal in the successful delivery of GemFire persistence  
 Created a performance testing suite using Gatling  
@@ -45,7 +45,7 @@ Instrumental in cross-pollination efforts, knowledge sharing, code reviews, gene
 Tech Stack: Node.js, Jasmine, Ruby 2, RSpec, Selenium Grid, Jenkins, Gatling, GemFire, MongoDB, SUSE Linux, Git
 
 <br>
-** FreeAssociation ** &emsp; * Developer * &emsp; New York &emsp; 2013 – 2014
+**FreeAssociation** &emsp; *Developer* &emsp; New York &emsp; 2013 – 2014
 
 Created responsive, CMS-driven websites for Time Warner Cable and Yingli Solar  
 Maintained websites for Ford and FreeAssociation  
@@ -54,7 +54,7 @@ Tech Stack: Ruby 2, Rails 3, HTML5, Sass, Susy, jQuery, CoffeeScript, MySQL, EC2
 Portfolio: http://www.connectamillionminds.com/share, http://www.yinglisolar.com
 
 <br>
-** Tykoon ** &emsp; * Senior Software Engineer * &emsp; New York &emsp; 2012 – 2013
+**Tykoon** &emsp; *Senior Software Engineer* &emsp; New York &emsp; 2012 – 2013
 
 Developed a web application, and maintained a REST JSON API for iOS  
 Migrated from Amazon EC2 to Rackspace, automated deployments, and administered servers  
@@ -63,7 +63,7 @@ Tech Stack: Ruby 2, Rails 3, Resque, RSpec, Selenium, PostgreSQL, Ubuntu 12.04 L
 Screenshots: https://github.com/zskolnik/Tykoon
 
 <br>
-** Guggenheim Partners ** &emsp; * Application Developer * &emsp; New York &emsp; 2011 – 2012
+**Guggenheim Partners** &emsp; *Application Developer* &emsp; New York &emsp; 2011 – 2012
 
 Developed Windows services and web applications for Guggenheim Securities  
 Architected a security master using Bloomberg Open Symbology, and a cross-product trade data mart based on FIX  
@@ -71,14 +71,14 @@ Interviewed, and helped train, three colleagues
 Tech Stack: C# ASP.NET MVC 3, NUnit, Ruby 1.9, RSpec, Selenium, WatiR, SSAS, FIX 5.0, Capistrano 2, TFS
 
 <br>
-** Nomura Securities ** &emsp; * Fixed Income Technology Consultant * &emsp; New York &emsp; 2010 – 2011
+**Nomura Securities** &emsp; *Fixed Income Technology Consultant* &emsp; New York &emsp; 2010 – 2011
 
 Created the Market Data Server for Credit & Rates Analytics  
 Developed real-time and end-of-day price feed adaptors for Cross-Product Risk  
 Tech Stack: C++ (Boost, Poco), C# 3.0 (WPF), Java, TIBCO Rendezvous, GemFire, VB6, SVN
 
 <br>
-** My Trade Wizard LLC ** &emsp; * Founder * &emsp; New York &emsp; 2009 – Present
+**My Trade Wizard LLC** &emsp; *Founder* &emsp; New York &emsp; 2009 – Present
 
 Creates software to automate trading systems  
 Advises a Friends and Family Group Account at Interactive Brokers  
@@ -86,7 +86,7 @@ Tech Stack: Ruby 2, RSpec, Cucumber, Ubuntu 12.04 LTS, AutoIt, Windows Server 20
 Code samples: https://github.com/mytradewizard
 
 <br>
-** SCT Capital Management ** &emsp; * Programmer / Analyst * &emsp; New York &emsp; 2007 – 2009
+**SCT Capital Management** &emsp; *Programmer / Analyst* &emsp; New York &emsp; 2007 – 2009
 
 Developed a library for historical and real-time market data from Deutsche Bank, Tick Data, and eSignal  
 Created a real-time P&L system for currency, commodity, fixed income, and equity index futures  
@@ -95,7 +95,7 @@ Tech Stack: C# 2.0 (WinForms), Ruby 1.9, MySQL, QuickFix, FIX 4.2
 Screenshots: https://github.com/zskolnik/SCT
 
 <br>
-** NetwIRC Inc. ** &emsp; * Co-Founder / CTO * &emsp; San Francisco &emsp; 2006 – 2007
+**NetwIRC Inc.** &emsp; *Co-Founder / CTO* &emsp; San Francisco &emsp; 2006 – 2007
 
 Created a web application for persistent group chat  
 Raised $25K in seed funding, and managed two senior consultants  
@@ -103,7 +103,7 @@ Tech Stack: Ruby 1.8, Rails 1.0, MySQL, Red Hat Linux
 Screenshots: https://github.com/netwirc/screenshots  
 
 <br>
-** Citadel Investment Group ** &emsp; * Portfolio Finance IT Intern * &emsp; Chicago &emsp; Summer 2005
+**Citadel Investment Group** &emsp; *Portfolio Finance IT Intern* &emsp; Chicago &emsp; Summer 2005
 
 Worked with quants and traders on a mathematical model for normalizing overnight stock lending data  
 Generated custom signals for multiple trading desks based on trends in availability and pricing  
@@ -111,7 +111,7 @@ Automatically generated a daily color report for senior management
 Tech Stack: C++, Perl, Sybase, VBA macros for Excel
 
 <br>
-** Lehman Brothers ** &emsp; New York
+**Lehman Brothers** &emsp; New York
 
 Equity Data IT Intern &emsp; Summer 2004  
 Created consolidated trade flow program, market impact service, and wrote scripts to crunch market data for a quant  
@@ -123,7 +123,7 @@ Tech Stack: KDB, Java, TIBCO Rendezvous, TIBCO Hawk
 
 #### <u> Education </u>
 <br>
-** Massachusetts Institute of Technology ** &emsp; Cambridge MA &emsp; 2002 – 2006
+**Massachusetts Institute of Technology** &emsp; Cambridge MA &emsp; 2002 – 2006
 
 Computer Science and Financial Management: Structure and Interpretation of Computer Programs,  
 Artificial Intelligence, Probabilistic Systems Analysis, Technical Communication,  
@@ -135,16 +135,16 @@ Publicity Chair for the Undergraduate Association &emsp; Fall 2002 – Spring 20
 
 #### <u> Other </u>
 <br>
-** New York Times ** &emsp; Investing; Teenage Bulls See Profits in a Time of Anxiety &emsp; September 23 2001  
+**New York Times** &emsp; Investing; Teenage Bulls See Profits in a Time of Anxiety &emsp; September 23 2001  
 Conducted a follow up interview concerning the impact of 9/11 on teen investors  
 http://www.nytimes.com/2001/09/23/business/investing-teenage-bulls-see-profits-in-a-time-of-anxiety.html
 
-** New York Times ** &emsp; In High School, Hallways Buzz With Stock Tips &emsp; January 14 2001  
+**New York Times** &emsp; In High School, Hallways Buzz With Stock Tips &emsp; January 14 2001  
 Interviewed for an article describing how the Internet has empowered high school investors  
 http://query.nytimes.com/gst/fullpage.html?res=9E0DE1DC173DF937A25752C0A9679C8B63
 
-** Wall Street Journal ** &emsp; Spending It, Investing It – Coming on Strong &emsp; November 29 1999  
+**Wall Street Journal** &emsp; Spending It, Investing It – Coming on Strong &emsp; November 29 1999  
 Headline feature in an article about young investors  
 http://online.wsj.com/article/SB942785816835228037.html
 
-** Bilingual: ** speak Spanish
+**Bilingual:** speak Spanish
