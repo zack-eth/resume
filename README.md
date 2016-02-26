@@ -5,7 +5,7 @@
 
 <br>
 
-#### <u> Skills </u>
+#### <u>Skills</u>
 
 **Development:** <u>Ruby (on Rails)</u>, Java, C++, C# (ASP.NET), Python, JavaScript, Objective-C  
 **Testing:** <u>Selenium</u> (WebDriver, Grid), Cucumber, RSpec, JUnit, NUnit, pytest, Jasmine, Gatling  
@@ -13,7 +13,7 @@
 **Platforms:** <u>Mac</u>, Linux (Ubuntu, CentOS, Raspbian), Windows, iOS  
 **Middleware:** <u>FIX</u>, TIBCO Rendezvous
 
-#### <u> Experience </u>
+#### <u>Experience</u>
 <br>
 **21 Inc** &emsp; *Consultant* &emsp; New York &emsp; January 2016 — Present
 
@@ -121,7 +121,7 @@ Equity Risk IT Intern &emsp; Summer 2003
 Automated database archival, generated server-monitoring alerts, and created a KDB GUI in Java  
 Tech Stack: KDB, Java, TIBCO Rendezvous, TIBCO Hawk
 
-#### <u> Education </u>
+#### <u>Education</u>
 <br>
 **Massachusetts Institute of Technology** &emsp; Cambridge MA &emsp; 2002 – 2006
 
@@ -133,7 +133,7 @@ Managerial Psychology, Economics, Accounting, Finance Theory, Options and Future
 Database Administrator for Microsoft iCampus project DomeView (PostgreSQL, PHP) &emsp; Fall 2004  
 Publicity Chair for the Undergraduate Association &emsp; Fall 2002 – Spring 2003
 
-#### <u> Other </u>
+#### <u>Other</u>
 <br>
 **New York Times** &emsp; Investing; Teenage Bulls See Profits in a Time of Anxiety &emsp; September 23 2001  
 Conducted a follow up interview concerning the impact of 9/11 on teen investors  
