@@ -1,7 +1,7 @@
 # <center> Zachary Móntez Skolnik </center>
 ##### <center> zskolnik@gmail.com </center>
 ##### <center> 646.469.2912 </center>
-##### <center> 160 E 48th St Apt 10F, New York NY 10017 </center>
+##### <center> 5 Echo Place, Larkspur CA 94939 </center>
 
 <br>
 
